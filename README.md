@@ -1,6 +1,5 @@
 # Implementasi-Firebase
 Tugas Chater 8 - Studi Independen - Agate
 
-Berikut Build Implementasi Firebase
-
-https://drive.google.com/drive/folders/1s3eoc2g7W2PMLWT-HLXBpKGMqbkFHjNO?usp=sharing
+Berikut Folder Assets Implementasi Firebase
+https://drive.google.com/file/d/1JeVM3h0UCQ_lWCgaKVwE_mJ2GdIAXvFH/view?usp=sharing
